@@ -1,3 +1,5 @@
+// brute force
+
 function twoSum(arr, target) {
   var result1 = [];
   for (var i = 0; i < arr.length; i++) {

@@ -18,5 +18,5 @@ function longestCommon(strs) {
   return prefix;
 }
 
-let result = longestCommon([]);
+let result = longestCommon(["flag", "flower", "flew"]);
 console.log(result);
